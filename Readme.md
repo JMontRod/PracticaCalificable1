@@ -351,11 +351,11 @@ Parte 2:3,8,14
 
 **Comentarios:** 
 
-Esto se usa para dejar explicaciones en el programa pero sin que este los llegue a interpretar. Esto seria solo para dejar claridad en el programa a la hora de examinarlo. Aunque no los he utilizado, a la hora de hacer programas mas grandes son muy necesarios para no perderte.
+Esto se usa para dejar explicaciones en el programa pero sin que este los llegue a interpretar. Esto seria solo para dejar claridad en el programa a la hora de examinarlo. Aunque los he utilizado muy poco, a la hora de hacer programas mas grandes son muy necesarios para no perderte.
 Esto se utiliza en los ejercicios:
 ~~~
 Parte 1:Ninguno
-Parte 2:Ninguno
+Parte 2:18
 :(
 ~~~
 **Enumerate:**
